@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css?family=Caladea|Playfair+Display|Raleway&display=swap');
+@import url('./sm-0-400px.css');
+
+.header-image {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/header.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+.header-image1 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/16.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+
+.header-image3 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/26.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+
+.header-image4 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/27.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+
+.header-image5 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/31.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+.header-image6 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/39.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+.header-image7 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/40.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+
+.header-image8 {
+
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./../img/44.jpg') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+
+
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+
+
+
+.custom-p2{
+    color: white;
+   
+
+ 
+}
+.text-custom1{
+    font-family: 'Raleway', sans-serif;
+}
+.text-custom2{
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+}
+.text-custom3{
+    font-family: 'Caladea', serif;
+}
+
+
+
+.custom-p1{
+    color: white;
+   
+  
+}
+.button-hover{
+    width: 40%;
+    height: 10vh;
+    background: transparent;
+    border: transparent;
+    letter-spacing: 3px;
+}
+.button-hover:hover{
+  background-color:#F65936;
+  color: white;
+  width: 40%;
+  height: 10vh;
+}
+
+
+.custom-line{
+    line-height: 10px;
+}
+.custom-line:hover{
+    line-height: 30px;
+  
+}
+
+
+

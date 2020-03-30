@@ -1,0 +1,244 @@
+
+
+@media (min-width: 0px) and (max-width: 991px) {
+    .hide{
+        display: none;
+    }
+}
+@media (min-width: 576px) and (max-width: 991px) {
+   
+    #header-img-second{
+        display: none;
+        
+    }
+    .p-2{
+        display: none;
+    }
+    
+   .think-footer{
+       margin-left: 35px;
+   }
+   .p-footer{
+       margin-left: 10px;
+       letter-spacing: 3px;
+   }
+  .tw{
+      font-size: 34px;
+  }
+  .date-footer{
+      margin-left:10px;
+      margin-right:10px
+  }
+
+
+         /* enviroment html page start  */
+            
+
+         .custom-p1{
+             font-size: 14px;
+             color: white;
+         }
+
+         .custom-margin1{
+             margin-top:10%
+         }
+         .image-small{
+             width: 50%;
+             float: right;
+         }
+
+         .custom-margin-top1{
+             margin-top:-47px !important;
+             font-size: 10px;
+         }
+
+         .custom-image1{
+             margin-top: 32px !important;
+         }
+
+         .text-custom-size1{
+          font-size: 30px !important;
+        }
+       
+
+        .font-size20{
+            font-size: 20px;
+        }
+
+        .font-size30{
+            font-size: 30px;
+        }
+        .font-size10{
+            font-size: 10px;
+        }
+        
+        .font-size5{
+            font-size: 5px;
+        }
+
+        .font-size15{
+            font-size: 15px;
+        }
+
+        .font-size25{
+            font-size: 25px;
+        }
+
+        .font-size35{
+            font-size: 35px;
+        }
+        .font-size50{
+            font-size: 50px;
+        }
+
+        .font-size40{
+            font-size: 40px;
+        }
+        .font-size100per{
+            font-size: 100%;
+        }
+        
+        
+        
+
+        .margin-top--5per{
+            margin-top: -5%;
+        }
+
+
+    /* margin custom start  */
+
+    .margin-top-md--5per{
+        margin-top: -5%;
+    }
+
+    .margin-top-md10px{
+             margin-top: 10px;
+    }
+
+    .margin-top-md15px{
+        margin-top: 15px;
+}
+
+    .margin-top-md20px{
+        margin-top: 20px;
+    }
+
+    .margin-top-md25px{
+        margin-top: 25px;
+    }
+
+    .margin-top-md30px{
+        margin-top: 30px;
+    }
+
+    .margin-top-md140px{
+        margin-top: 40px;
+    }
+
+    .margin-top-md50px{
+        margin-top: 50px;
+    }
+
+    .margin-top-md100px{
+        margin-top: 100px;
+    }
+
+
+    .margin-left-md-10px{
+    margin-left: 10px;
+}
+
+.margin-left-md-20px{
+    margin-left: 20px;
+}
+.margin-left-md-30px{
+    margin-left: 30px;
+}
+.margin-left-md-40px{
+    margin-left: 40px;
+}
+.margin-left-md-50px{
+    margin-left: 50px;
+}
+.margin-left-md-60px{
+    margin-left: 60px;
+}
+.margin-left-md-70px{
+    margin-left: 70px;
+}
+.margin-left-md-80px{
+    margin-left: 80px;
+}
+.margin-left-md-90px{
+    margin-left: 90px;
+}
+.margin-left-md-100px{
+    margin-left: 100px;
+}
+
+.margin-right-md-10px{
+    margin-top: 10px;
+}
+.margin-right-md-20px{
+    margin-right: 20px;
+}
+.margin-right-md-30px{
+    margin-right: 30px;
+}
+.margin-right-md-40px{
+    margin-right: 40px;
+}
+.margin-right-md-50px{
+    margin-right: 50px;
+}
+.margin-right-md-60px{
+    margin-right: 60px;
+}
+.margin-right-md-70px{
+    margin-right: 70px;
+}
+.margin-right-md-80px{
+    margin-right: 80px;
+}
+.margin-right-md-90px{
+    margin-right: 90px;
+}
+.margin-right-md-100px{
+    margin-right: 100px;
+}
+
+.margin-bottom-md-10px{
+    margin-bottom: 10px;
+}
+.margin-bottom-md-20px{
+    margin-bottom: 20px;
+}
+.margin-bottom-md-30px{
+    margin-bottom: 30px;
+}
+.margin-bottom-md-40px{
+    margin-bottom: 40px;
+}
+.margin-bottom-md-50px{
+    margin-bottom: 50px;
+}
+.margin-bottom-md-60px{
+    margin-bottom: 60px;
+}
+.margin-bottom-md-70px{
+    margin-bottom: 70px;
+}
+.margin-bottom-md-80px{
+    margin-bottom: 80px;
+}
+.margin-bottom-md-90px{
+    margin-bottom: 90px;
+}
+.margin-bottom-md-100px{
+    margin-bottom: 100px;
+}
+
+    /* margin custom end  */
+
+}
